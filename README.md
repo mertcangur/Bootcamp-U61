@@ -14,7 +14,7 @@ Kaan Çelik: Developer </br>
 <h3>Ürün Açıklaması</h3>
 
 
-Sprint 1
+<h2>Sprint 1</h2>
 Sprint Notları: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. Öndeğerlendirme yapıldı. Pazar ve sektör araştırması yapılıp güncel bilgiler toplandı. Proje fikri üzerine beyin fırtınası yapıldı. Proje çerçevesi belirlendi. Oyun türü belirlendi ve sonraki sprint süreci planlandı. 
 
 
