@@ -1,7 +1,7 @@
 # Bootcamp-U61: Gabbies
 
-Ürün İle İlgili Bilgiler</br>
-<h1>Takım Üyeleri</h1></br>
+<h2>Ürün İle İlgili Bilgiler</h2></br>
+<h3>Takım Üyeleri</h3></br>
 Sabriye Nur Şentürk: Product Owner</br>
 Mertcan Gür: Scrum Master</br>
 Elif Ezgi Çay: Developer - Artist</br>
@@ -26,4 +26,4 @@ Yapılacaklar ve İçerik: Proje fikri kararlaştırılmıştır ve proje çerç
 
 
 Daily Scrum: Daily Scrum toplantıları discord üzerinden yapıldı. Takım üyeleri aktif olarak katılım sağladı.
-![scrum1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/483ce794-c098-434e-ac1a-9a1696b3f6c7)Artisy
+![scrum1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/483ce794-c098-434e-ac1a-9a1696b3f6c7)
