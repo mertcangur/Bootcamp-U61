@@ -1,13 +1,13 @@
 # Bootcamp-U61: Gabbies
 
-Ürün İle İlgili Bilgiler
-Takım Üyeleri
-Sabriye Nur Şentürk: Product Owner
-Mertcan Gür: Scrum Master
-Elif Ezgi Çay: Developer - Artist
-Murat Aydemir: Developer - 3D Artist
-Kaan Çelik: Developer 
-
+Ürün İle İlgili Bilgiler</br>
+Takım Üyeleri</br>
+Sabriye Nur Şentürk: Product Owner</br>
+Mertcan Gür: Scrum Master</br>
+Elif Ezgi Çay: Developer - Artist</br>
+Murat Aydemir: Developer - 3D Artist</br>
+Kaan Çelik: Developer </br>
+</br>
 Ürün İsmi
 -- --
 
