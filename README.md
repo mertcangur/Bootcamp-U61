@@ -31,5 +31,5 @@ Proje Çerçevesi:
 Sprint1:
 ![sprint1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/9dadc48e-baff-401c-8170-719cb45a2fc1)
 
-Sprint Retrospektive: Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
+</br>Sprint Retrospektive: Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
 
