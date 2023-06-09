@@ -3,11 +3,11 @@
 <h2>Ürün İle İlgili Bilgiler</h2></br>
 <h3>Takım Üyeleri</h3></br>
 <ul>
-<il>Sabriye Nur Şentürk: Product Owner</il></br>
-<il>Mertcan Gür: Scrum Master</il></br>
-<il>Elif Ezgi Çay: Developer - Artist</il></br>
-<il>Murat Aydemir: Developer - 3D Artist</il></br>
-<il>Kaan Çelik: Developer</il> </br>
+<li>Sabriye Nur Şentürk: Product Owner</li></br>
+<li>Mertcan Gür: Scrum Master</li></br>
+<li>Elif Ezgi Çay: Developer - Artist</li></br>
+<li>Murat Aydemir: Developer - 3D Artist</li></br>
+<li>Kaan Çelik: Developer</li> </br>
 </ul>
 </br>
 Ürün İsmi
