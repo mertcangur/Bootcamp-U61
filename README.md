@@ -14,7 +14,7 @@
 <h3>Ürün Açıklaması</h3>
 
 <h4>Product Backlog URL</h4>
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVMAtmr1U=/)</br>
+[Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVMAtmr1U=/)</br>
 
 <h2>Sprint 1</h2>
 
