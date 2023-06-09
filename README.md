@@ -11,7 +11,7 @@ Kaan Çelik: Developer </br>
 Ürün İsmi
 -- --
 
-Ürün Açıklaması
+<h3>Ürün Açıklaması</h3>
 
 
 Sprint 1
