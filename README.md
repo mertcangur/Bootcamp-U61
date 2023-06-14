@@ -15,7 +15,7 @@
 
 <h4>Product Backlog URL</h4>
 
-[Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVMAtmr1U=/)</br>
+[Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
 
 <h2>Sprint 1</h2>
 
