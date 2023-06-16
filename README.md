@@ -31,9 +31,11 @@ Sprint Rewiew: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. 
 
 ![proje Çerçevesi](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/05aa2fca-0985-43ac-9c4f-73e937f0ea20)
 
+![sprint 1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/a2d90d26-9fad-4908-abf7-ca2dde65bddf)
 <h2>Sprint1:</h2>
 
-![sprint1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/9dadc48e-baff-401c-8170-719cb45a2fc1)
+![sprint1](![Uploading sprint 1.png…]()
+)
 
 </br>Sprint Retrospektive: Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
 
