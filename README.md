@@ -23,7 +23,8 @@ Daily Scrum: Daily Scrum toplantıları discord üzerinden yapıldı. Takım üy
 
 <h2>Scrum 1:</h2>
 
-![scrum1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/483ce794-c098-434e-ac1a-9a1696b3f6c7)
+![scrum1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/afca3627-ffc0-4091-ae48-101349eb6e52)
+
 
 Sprint Rewiew: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. Öndeğerlendirme yapıldı. Pazar ve sektör araştırması yapılıp güncel bilgiler toplandı. Proje fikri üzerine beyin fırtınası yapıldı. Proje çerçevesi belirlendi. Oyun türü belirlendi ve sonraki sprint süreci planlandı. Proje fikri kararlaştırılmıştır ve proje çerçevesi Miro üzerinden düzenlenmiştir. Çizelgede kırmızı renkle eklenen proje fikrinde karar kılınmıştır. Asset ve karakter araştırmaları başlamıştır. Character Controller üzerinde çalışmalar yapılmaktadır.</br>
 
