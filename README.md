@@ -33,6 +33,7 @@ Sprint Rewiew: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. 
 
 
 <h2>Sprint1:</h2>
+
 ![sprint_1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/b31454d9-6e91-4566-a170-8119db9dedf6)
 
 
