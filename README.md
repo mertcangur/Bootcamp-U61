@@ -23,9 +23,9 @@
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
++ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-**Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Takım üyeleri aktif olarak katılım sağladı.</br>
++ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Takım üyeleri aktif olarak katılım sağladı.</br>
 
 <h2>Scrum 1:</h2>
 
@@ -39,7 +39,7 @@ Sprint Rewiew: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. 
 ![proje Çerçevesi](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/05aa2fca-0985-43ac-9c4f-73e937f0ea20)
 
 
-**Sprint board update:** Sprint board screenshotları:
++ **Sprint board update:** Sprint board screenshotları:
 
 ![sprint_1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/b31454d9-6e91-4566-a170-8119db9dedf6)
 
