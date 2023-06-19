@@ -28,7 +28,6 @@
 **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Takım üyeleri aktif olarak katılım sağladı.</br>
 
 <h2>Scrum 1:</h2>
-**Sprint board update: Sprint board screenshotları:**
 
 ![scrum1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/afca3627-ffc0-4091-ae48-101349eb6e52)
 
@@ -40,7 +39,7 @@ Sprint Rewiew: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. 
 ![proje Çerçevesi](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/05aa2fca-0985-43ac-9c4f-73e937f0ea20)
 
 
-<h3>**Sprint board update: Sprint board screenshotları:**</h3>
+**Sprint board update: Sprint board screenshotları:**
 
 ![sprint_1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/b31454d9-6e91-4566-a170-8119db9dedf6)
 
