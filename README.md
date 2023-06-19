@@ -1,7 +1,7 @@
 
 <h2>Takım İsmi</h2>
-<h5>Bootcamp-U61: Gabbies</h5>
-<h2>Ürün İle İlgili Bilgiler</h2></br>
+<h5>Bootcamp-U61: Gabbies</h5></br>
+<h2>Ürün İle İlgili Bilgiler</h2>
 <h3>Takım Üyeleri</h3></br>
 <ul>
 <li>Sabriye Nur Şentürk: Product Owner</li></br>
