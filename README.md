@@ -39,7 +39,7 @@ Sprint Rewiew: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. 
 ![proje Çerçevesi](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/05aa2fca-0985-43ac-9c4f-73e937f0ea20)
 
 
-**Sprint board update: Sprint board screenshotları:**
+**Sprint board update:** Sprint board screenshotları:
 
 ![sprint_1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/b31454d9-6e91-4566-a170-8119db9dedf6)
 
