@@ -48,5 +48,5 @@ Sprint Rewiew: Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. 
 
 
 
-</br>S**print Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
+</br>**Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
 
