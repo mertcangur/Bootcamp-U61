@@ -48,5 +48,5 @@
 
 
 </br>
-+ **Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
+**Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
 
