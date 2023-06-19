@@ -41,7 +41,11 @@
 
 ![sprint_1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/b31454d9-6e91-4566-a170-8119db9dedf6)
 
++ **Oyun Durumu:** Screenshotlar
+  
+![Adsız](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/95ee3a7e-9c56-402a-b3f2-2820ce417bf3)
 
+![S3](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/57880f8a-dfd9-476e-9d74-84cf2167a967)
 
 
 
