@@ -32,8 +32,6 @@
 ![scrum1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/afca3627-ffc0-4091-ae48-101349eb6e52)
 
 
-**Sprint Rewiew:** Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. Öndeğerlendirme yapıldı. Pazar ve sektör araştırması yapılıp güncel bilgiler toplandı. Proje fikri üzerine beyin fırtınası yapıldı. Proje çerçevesi belirlendi. Oyun türü belirlendi ve sonraki sprint süreci planlandı. Proje fikri kararlaştırılmıştır ve proje çerçevesi Miro üzerinden düzenlenmiştir. Çizelgede kırmızı renkle eklenen proje fikrinde karar kılınmıştır. Asset ve karakter araştırmaları başlamıştır. Character Controller üzerinde çalışmalar yapılmaktadır.</br>
-
 **Proje Çerçevesi:**
 
 ![proje Çerçevesi](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/05aa2fca-0985-43ac-9c4f-73e937f0ea20)
@@ -46,6 +44,10 @@
 
 
 
+
+</br>
+
+**Sprint Rewiew:** Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. Öndeğerlendirme yapıldı. Pazar ve sektör araştırması yapılıp güncel bilgiler toplandı. Proje fikri üzerine beyin fırtınası yapıldı. Proje çerçevesi belirlendi. Oyun türü belirlendi ve sonraki sprint süreci planlandı. Proje fikri kararlaştırılmıştır ve proje çerçevesi Miro üzerinden düzenlenmiştir. Çizelgede kırmızı renkle eklenen proje fikrinde karar kılınmıştır. Asset ve karakter araştırmaları başlamıştır. Character Controller üzerinde çalışmalar yapılmaktadır.</br>
 
 </br>
 
