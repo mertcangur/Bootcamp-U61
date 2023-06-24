@@ -38,9 +38,9 @@
 ![scrum1](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/afca3627-ffc0-4091-ae48-101349eb6e52) -->
 
 
-**Proje Çerçevesi:**
+<!--**Proje Çerçevesi:**
 
-![proje Çerçevesi](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/05aa2fca-0985-43ac-9c4f-73e937f0ea20)
+![proje Çerçevesi](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/05aa2fca-0985-43ac-9c4f-73e937f0ea20)-->
 
 + **Oyun Durumu:** Screenshotlar
   
