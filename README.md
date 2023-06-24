@@ -25,7 +25,8 @@
 
 + **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-+ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Scrum 1 görselinde görüldüğü üzere takım üyeleri aktif olarak katılım sağladı</br>
++ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Scrum 1 görselinde görüldüğü üzere takım üyeleri aktif olarak katılım sağladı</br> [scrum.docx](https://github.com/mertcangur/Bootcamp-U61/files/11857222/scrum.docx)
+
 
 
 + **Sprint board update:** Sprint board screenshotları:
