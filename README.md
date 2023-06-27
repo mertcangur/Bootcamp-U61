@@ -58,4 +58,5 @@
 
 + **Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
 
+</br>
 <h2>Sprint 2</h2>
