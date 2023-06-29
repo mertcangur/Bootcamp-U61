@@ -80,10 +80,12 @@
 
 </br>
 
++ **Sprint Rewiew:** 
 <ul>
-<li> **Sprint Rewiew:** </li>
 <li>Alınan Kararlar:
+<ul>
 <li>Uzay temalı bir oyun yerine, nükleer patlama sonrası bir baba oğul ilişkisi üzerine odaklanan bir bulmaca aksiyon tarzı oyun yapma kararı aldık. Bu kararla,        oyunculara duygusal bir hikaye sunarken aynı zamanda bulmacalar ve aksiyon unsurlarıyla heyecan verici bir deneyim yaşatmayı hedefliyoruz.</li>
+</ul>
 </li>
 </ul>
 
