@@ -23,7 +23,7 @@
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-+ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 430 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
++ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 + **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağlandı [Sprint 1 Daily Scrums](https://github.com/mertcangur/Bootcamp-U61/files/11857222/scrum.docx) </br>
 
@@ -61,9 +61,9 @@
 </br>
 <h2>Sprint 2</h2>
 
-+ **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
++ **Sprint içinde tamamlanması tahmin edilen puan:** 1120 Puan
 
-+ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 430 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
++ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
 
 
 + **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağlandı [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
@@ -80,7 +80,16 @@
 
 </br>
 
-+ **Sprint Rewiew:** Alınan karalar: Uzay temalı bir oyun yapmak yerine nükleer patlama sonrası bir bulmaca aksiyon temalı bir oyun yapma kararı aldık. bölüm tasarımları ve mekanikleri bu karar üzerinde ilerletmeye devam ediyoruz.</br>
++ **Sprint Rewiew:** Alınan Kararlar:
+
+Uzay temalı bir oyun yerine, nükleer patlama sonrası bir baba oğul ilişkisi üzerine odaklanan bir bulmaca aksiyon tarzı oyun yapma kararı aldık. Bu kararla, oyunculara duygusal bir hikaye sunarken aynı zamanda bulmacalar ve aksiyon unsurlarıyla heyecan verici bir deneyim yaşatmayı hedefliyoruz.
+
+İlerlemeler:
+
+Bölüm tasarımları ve mekanikler üzerinde çalışmaya devam ettik. Nükleer patlama sonrası atmosferi, baba oğul ilişkisini ve bulmacaları içeren etkileyici bir oyun dünyası oluşturmak için yoğun çaba sarf ettik.
+Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin edici bir deneyim yaşamalarını sağlamak için farklı mekanikler üzerinde çalıştık.
+
+Bu sprintteki kararlarımız ve ilerlemelerimiz, oyunun hedeflerine uygun bir şekilde ilerlememizi sağladı. İlerleyen sprintlerde, bulmaca aksiyon tarzı oyunun atmosferini ve baba oğul ilişkisini daha da derinleştirerek, oyuncuların benzersiz bir deneyim yaşamalarını hedefliyoruz.</br>
 
 </br>
 
