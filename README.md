@@ -12,15 +12,14 @@
 </ul>
 </br>
 
-# Ürün İsmi
--- --
-<h2>Ürün Açıklaması</h2>
+## Ürün İsmi -- --
+# Ürün Açıklaması</h2>
 
-<h4>Product Backlog URL</h4>
+### Product Backlog URL
 
 [Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
 
-<h2>Sprint 1</h2>
+# Sprint 1
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
