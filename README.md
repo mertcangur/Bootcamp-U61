@@ -60,3 +60,10 @@
 
 </br>
 <h2>Sprint 2</h2>
+
++ **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+
++ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 430 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
++ 
++ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağlandı [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
+
