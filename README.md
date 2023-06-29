@@ -72,3 +72,9 @@
   
   ![sprintboard](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/e0db4545-30ef-427e-9a62-e1339adec312)
 
++ **Oyun Durumu:** Screenshotlar
+
+ ![Screenshot_3](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/8a7ad1f2-2145-4980-a124-14a05bcb70cd)
+![gameSS1](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/403e4505-a113-4bd5-8534-ffa6f00280cb)
+![sprint2gameSS](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/f0302044-41fe-479b-a6a1-987cf46af177)
+
