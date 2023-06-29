@@ -84,5 +84,6 @@
 
 </br>
 
-+ **Sprint Retrospektive:**  </br>
++ **Sprint Retrospektive:** Ekibimiz zamanla daha iyi kaynaşmış durumda ve birbirimizle daha iyi iletişim kuruyoruz. Ancak, son sprintte tahmin ettiğimiz ilerleme planının gerisinde kaldık ve bayram tatili nedeniyle planımız aksamış durumda. Bu durum moralimizi bozsa da, 3. sprintte bu sorunu düzeltmeye kararlıyız.
+ </br>
 
