@@ -59,6 +59,7 @@
 + **Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
 
 </br>
+
 # Sprint 2
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 110 Puan
