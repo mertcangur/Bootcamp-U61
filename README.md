@@ -82,7 +82,7 @@
 
 
 <ul>
-<li>+ **Sprint Rewiew:** 
+<li><p> + **Sprint Rewiew:** </p>
 <ul>
 <li>    Alınan Kararlar:
 <ul>
