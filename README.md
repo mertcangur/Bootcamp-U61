@@ -84,17 +84,17 @@
 <ul>
 <li><b> Sprint Rewiew:</b></br>
 <ul>
-<li>Alınan Kararlar:</br>
+<li>Alınan Kararlar:
 <ul>
-<li>Uzay temalı bir oyun yerine, nükleer patlama sonrası bir baba oğul ilişkisi üzerine odaklanan bir bulmaca aksiyon tarzı oyun yapma kararı aldık. Bu kararla,        oyunculara duygusal bir hikaye sunarken aynı zamanda bulmacalar ve aksiyon unsurlarıyla heyecan verici bir deneyim yaşatmayı hedefliyoruz.</br></li>
+<li>Uzay temalı bir oyun yerine, nükleer patlama sonrası bir baba oğul ilişkisi üzerine odaklanan bir bulmaca aksiyon tarzı oyun yapma kararı aldık. Bu kararla,        oyunculara duygusal bir hikaye sunarken aynı zamanda bulmacalar ve aksiyon unsurlarıyla heyecan verici bir deneyim yaşatmayı hedefliyoruz.</li>
 </ul>
 </li>
 
 <li>İlerlemeler:
 <ul>
 <li> Bölüm tasarımları ve mekanikler üzerinde çalışmaya devam ettik. Nükleer patlama sonrası atmosferi, baba oğul ilişkisini ve bulmacaları içeren etkileyici bir oyun dünyası oluşturmak için yoğun çaba sarf ettik.
-Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin edici bir deneyim yaşamalarını sağlamak için farklı mekanikler üzerinde çalıştık.</br></li>
-  <li> Bu sprintteki kararlarımız ve ilerlemelerimiz, oyunun hedeflerine uygun bir şekilde ilerlememizi sağladı. İlerleyen sprintlerde, bulmaca aksiyon tarzı oyunun atmosferini ve baba oğul ilişkisini daha da derinleştirerek, oyuncuların benzersiz bir deneyim yaşamalarını hedefliyoruz.</br></li>
+Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin edici bir deneyim yaşamalarını sağlamak için farklı mekanikler üzerinde çalıştık.</li>
+  <li> Bu sprintteki kararlarımız ve ilerlemelerimiz, oyunun hedeflerine uygun bir şekilde ilerlememizi sağladı. İlerleyen sprintlerde, bulmaca aksiyon tarzı oyunun atmosferini ve baba oğul ilişkisini daha da derinleştirerek, oyuncuların benzersiz bir deneyim yaşamalarını hedefliyoruz.</li>
 </ul>
 </li>
 </li>
