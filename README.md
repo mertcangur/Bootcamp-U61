@@ -78,3 +78,11 @@
 ![gameSS1](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/403e4505-a113-4bd5-8534-ffa6f00280cb)
 ![sprint2gameSS](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/f0302044-41fe-479b-a6a1-987cf46af177)
 
+</br>
+
++ **Sprint Rewiew:** Tanışma toplantısı yapıldı. İletişim kanalları kuruldu. Öndeğerlendirme yapıldı. Pazar ve sektör araştırması yapılıp güncel bilgiler toplandı. Proje fikri üzerine beyin fırtınası yapıldı. Proje çerçevesi belirlendi. Oyun türü belirlendi ve sonraki sprint süreci planlandı. Proje fikri kararlaştırılmıştır ve proje çerçevesi Miro üzerinden düzenlenmiştir. Çizelgede kırmızı renkle eklenen proje fikrinde karar kılınmıştır. Asset ve karakter araştırmaları başlamıştır. Character Controller üzerinde çalışmalar yapılmaktadır.</br>
+
+</br>
+
++ **Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
+
