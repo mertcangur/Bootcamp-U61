@@ -79,6 +79,18 @@
 ![sprint2gameSS](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/f0302044-41fe-479b-a6a1-987cf46af177)
 
 </br>
+<ol>
+<li>
+<p> + **Sprint Rewiew:**
+Alınan Kararlar:</p>
+<pre><code>Uzay temalı bir oyun yerine, nükleer patlama sonrası bir baba oğul ilişkisi üzerine odaklanan bir bulmaca aksiyon tarzı oyun yapma kararı aldık. Bu kararla,        oyunculara duygusal bir hikaye sunarken aynı zamanda bulmacalar ve aksiyon unsurlarıyla heyecan verici bir deneyim yaşatmayı hedefliyoruz.
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+</li>
+</ol>
+
 
 + **Sprint Rewiew:**
     _ Alınan Kararlar:
