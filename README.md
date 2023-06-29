@@ -20,7 +20,6 @@
 [Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
 
 # Sprint 1
-<h2><p style="color: red;"> # Sprint 1 </p></h2>
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
