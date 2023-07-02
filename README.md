@@ -24,9 +24,9 @@
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-+ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
++ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verilmiştir.
 
-+ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağlandı [Sprint 1 Daily Scrums](https://github.com/mertcangur/Bootcamp-U61/files/11857222/scrum.docx) </br>
++ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağladı [Sprint 1 Daily Scrums](https://github.com/mertcangur/Bootcamp-U61/files/11857222/scrum.docx) </br>
 
 
 
@@ -65,10 +65,10 @@
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 110 Puan
 
-+ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 110 ile devam etmesi gerektiğine karar verildi.
++ **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 110 ile devam etmesi gerektiğine karar verilmiştir.
 
 
-+ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağlandı [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
++ **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağladı [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
 
 + **Sprint board update:** Sprint board screenshotları:
   
