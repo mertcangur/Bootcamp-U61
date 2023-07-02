@@ -72,7 +72,8 @@
 
 + **Sprint board update:** Sprint board screenshotları:
   
-  ![sprintboard](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/e0db4545-30ef-427e-9a62-e1339adec312)
+![sprint2](https://github.com/mertcangur/Bootcamp-U61/assets/79248086/1e2d88bf-ad85-4681-ac6c-7ed9f527ddfc)
+
 
 + **Oyun Durumu:** Screenshotlar
 
