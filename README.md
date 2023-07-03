@@ -57,7 +57,7 @@
 
 </br>
 
-+ **Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir.</br>
++ **Sprint Retrospektive:** Kullanıcı deneyimini ön planda tutmaya karar verilmiştir. Animatörlerde düzenleme yapmaya karar verilmiştir. </br> </br>
 
 ### Product Backlog URL
 
@@ -111,7 +111,8 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 </br>
 
 + **Sprint Retrospektive:** Ekibimiz zamanla daha iyi kaynaşmış durumda ve birbirimizle daha iyi iletişim kuruyoruz. Ancak, son sprintte tahmin ettiğimiz ilerleme planının gerisinde kaldık ve bayram tatili nedeniyle planımız aksamış durumda. Bu durum moralimizi bozsa da, 3. sprintte bu sorunu düzeltmeye kararlıyız.
- </br>
+ </br> </br>
+ 
  ### Product Backlog URL
 
 [Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
