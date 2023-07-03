@@ -67,6 +67,15 @@
 
 # Sprint 2
 
+<ul>
+<li><b> Sprint Notları:</b></br>
+<ul>
+<li>Miro Board üzerindeki kırmızı item'lar, yapılacak işleri (task'leri) gösterirken, mavi item'lar story'leri temsil etmektedir. Bu renk kodlamasına dikkat ederek çalışmalarımızı sürdüreceğiz.</li>
+
+</ul>
+</li>
+</ul>
+  
 + **Sprint içinde tamamlanması tahmin edilen puan:** 110 Puan
 
 + **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 110 ile devam etmesi gerektiğine karar verilmiştir.
