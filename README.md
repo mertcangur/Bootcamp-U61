@@ -72,6 +72,10 @@
 <ul>
 <li>Miro Board üzerindeki kırmızı item'lar, yapılacak işleri (task'leri) gösterirken, mavi item'lar story'leri temsil etmektedir. Bu renk kodlamasına dikkat ederek çalışmalarımızı sürdüreceğiz.</li>
 
+<li>Sorunların daha hızlı çözümü ve engellerin aşılması için takım içi iletişimi güçlendirmeye devam edeceğiz..</li>
+<li>Daily scrum toplantılar aracılığıyla sprint sürecindeki zorlukları ve başarıları değerlendirmeye devam edeceğiz</li>
+
+
 </ul>
 </li>
 </ul>
