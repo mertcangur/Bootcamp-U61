@@ -1,0 +1,15 @@
+id: 0
+name: Aid Kit
+,
+id: 1
+name: Gas Mask
+,
+id: 2
+name: Pain Killer
+,
+id: 3
+name: Keys
+,
+id: 4
+name: Map
+;
