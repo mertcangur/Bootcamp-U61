@@ -1,0 +1,30 @@
+id: -1
+name: Empty
+stackable: false
+slug: empty
+,
+id: 0
+name: Aid Kit
+stackable: true
+slug: firstaidkit
+,
+id: 1
+name: Tornavida
+stackable: true
+slug: tornavida
+,
+id: 2
+name: Keys
+stackable: true
+slug: Keys
+,
+id: 3
+name: Light
+stackable: true
+slug: light
+,
+id: 4
+name: drugs
+stackable: true
+slug: drug
+;
