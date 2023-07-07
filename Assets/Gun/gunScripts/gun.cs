@@ -28,7 +28,6 @@ public class gun : MonoBehaviour
     //Graphics
     public GameObject muzzleFlash, bulletHoleMetal;//,bulletHoleBlood;
     public TextMeshProUGUI ammunitionDisplay;
-    public TextMeshProUGUI statTrack;
 
     //bug Fixing
     public bool allowInvoke = true;
@@ -69,7 +68,6 @@ public class gun : MonoBehaviour
         //Set ammo display, if it exist 
         if (ammunitionDisplay != null)
             ammunitionDisplay.SetText(bulletsLeft / bulletsPerTab + " / " + magazineSize / bulletsPerTab);
-        statTrack.SetText((bulletsLeft / bulletsPerTab).ToString());
 
 
     }

@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class gunSwitch : MonoBehaviour
 {
     [SerializeField] GameObject[] guns;
-    //[SerializeField] Image[] gunsUI;
+    [SerializeField] Image[] gunsUI;
     
     int index;
 
@@ -29,7 +30,6 @@ public class gunSwitch : MonoBehaviour
         {
             allClose(); 
         }
-        Debug.Log(index);
     }
 
     private void change(int number)
@@ -41,10 +41,10 @@ public class gunSwitch : MonoBehaviour
         for (int i = 0; i < guns.Length; i++)
         {
             guns[i].SetActive(false);
-            //gunsUI[i].gameObject.SetActive(false);
+            gunsUI[i].gameObject.SetActive(false);
         }
         guns[number - 1].SetActive(true);
-        //gunsUI[number - 1].gameObject.SetActive(true);
+        gunsUI[number - 1].gameObject.SetActive(true);
         index = number;
     }
     private void allClose()
@@ -58,6 +58,7 @@ public class gunSwitch : MonoBehaviour
         for (int i = 0; i < guns.Length; i++)
         {
             guns[i].SetActive(false);
+            gunsUI[i].gameObject.SetActive(false);
         }
     }
 }
