@@ -37,7 +37,7 @@ public class gun : MonoBehaviour
     [SerializeField] AudioSource fireAudio;
 
     //Animator
-    [SerializeField] GameObject animatorr;
+    public GameObject animatorr;
     private Animator anim;
 
     //Recoil
