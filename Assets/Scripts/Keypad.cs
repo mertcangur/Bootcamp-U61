@@ -11,6 +11,7 @@ public class Keypad : MonoBehaviour
     [SerializeField] private Canvas keypad;
     [SerializeField] private Animator Sandık;
     [SerializeField] private Animator Canvas;
+    public Collider coll;
     public GameObject KeyPad;
     private string Answer = "2013";
     public Scene _scene;
@@ -29,6 +30,7 @@ public class Keypad : MonoBehaviour
            
         }else if( Ans.text == Answer){
             Anim.SetBool("AnswerState", true);
+            coll.enabled = !enabled;
             StartCoroutine(Coroutine());
             
             //Canvas.SetBool("Click", true);
