@@ -7,15 +7,18 @@ using UnityEngine.UI;
 public class Inventory : MonoBehaviour
 {
     public ItemDataBase database;
-    int sloteAmount = 9;
+    int sloteAmount = 7;
+    int storageAmount = 18;
    public GameObject slot;
    public GameObject hotbarPanel;
+   public GameObject inventoryPanel;
    public GameObject invItem;
 
    public List<GameObject> slots = new List<GameObject>();
    public List<Item> items = new List<Item>();
     void Start()
     {
+        inventoryPanel.SetActive(false);
         database = gameObject.GetComponent<ItemDataBase>();
         for(int i =0; i<sloteAmount; i++){
             items.Add(database.GetItemByID(-1));
@@ -24,8 +27,15 @@ public class Inventory : MonoBehaviour
             slots[i].transform.SetParent(hotbarPanel.transform);
             slots[i].GetComponent<RectTransform>().transform.localScale = Vector3.one;
         }
-        
+        for( int i = sloteAmount; i<storageAmount; i++ ){
+            items.Add(database.GetItemByID(-1));
+            slots.Add(Instantiate(slot));
+            slots[i].GetComponent<SlotScripts>().slotNumber = i;
+            slots[i].transform.SetParent(inventoryPanel.transform);
+            slots[i].GetComponent<RectTransform>().transform.localScale = Vector3.one;
+        }
       
+        
         
     }
     private void Update(){
@@ -72,6 +82,6 @@ public class Inventory : MonoBehaviour
         return false;
     }
     public void ToggleInventory(){
-        hotbarPanel.SetActive(!hotbarPanel.active);
+        inventoryPanel.SetActive(!inventoryPanel.active);
     }
 }

@@ -11,7 +11,7 @@ public class SlotScripts : MonoBehaviour, IDropHandler {
     // Start is called before the first frame update
     void Start()
     {
-        inv = GameObject.FindGameObjectWithTag("InventoryManager").GetComponent<Inventory>();
+        inv = GameObject.FindGameObjectWithTag("InventoryManagement").GetComponent<Inventory>();
         
     }
 

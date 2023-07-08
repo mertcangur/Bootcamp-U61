@@ -8,7 +8,6 @@ public class CameraScript : MonoBehaviour
     public GameObject Camera;
     public GameObject keypad;
     public GameObject HotbarPanel;
-    public Collider coll;
     [SerializeField] private Animator Canvas;
     public GameObject List;
     public bool list = false;
@@ -31,7 +30,6 @@ public class CameraScript : MonoBehaviour
             HotbarPanel.gameObject.SetActive(false);
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
-            coll.enabled = !enabled;
             //Canvas.SetBool("Click", false);
         
     }
@@ -42,7 +40,6 @@ public class CameraScript : MonoBehaviour
             Camera.gameObject.SetActive(false);
             HotbarPanel.gameObject.SetActive(true);
             Cursor.visible = false;
-            coll.enabled = !enabled;
             //Canvas.SetBool("Click", true);
     }
     if(Input.GetKeyDown(KeyCode.L)){
