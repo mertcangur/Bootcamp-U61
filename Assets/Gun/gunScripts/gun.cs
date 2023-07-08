@@ -59,11 +59,12 @@ public class gun : MonoBehaviour
 
     private void FixedUpdate()
     {
+        MyInput();
         speed = GameObject.Find("PlayerCapsule").GetComponent<FirstPersonController>()._speed;
         is_sprint = GameObject.Find("PlayerCapsule").GetComponent<StarterAssetsInputs>().sprint;
         anim.SetFloat("speed", speed);
         anim.SetBool("is_sprint", is_sprint);
-        MyInput();
+        
 
         //Set ammo display, if it exist 
         if (ammunitionDisplay != null)
@@ -86,7 +87,7 @@ public class gun : MonoBehaviour
         else shooting = Input.GetKeyDown(KeyCode.Mouse0);
 
         //Reload
-        if (Input.GetKeyDown(KeyCode.R) && bulletsLeft < magazineSize && !reloading)
+        if (Input.GetKey(KeyCode.R) && bulletsLeft < magazineSize && !reloading)
             Reload();
 
         //Reload automaticlly when trying to shoot with no ammo
@@ -182,7 +183,7 @@ public class gun : MonoBehaviour
     {
 
         reloading = true;
-        //anim.SetBool("reload", true);
+        anim.SetTrigger("reload");
         reloadAudio.PlayOneShot(reloadAudio.clip);
         Invoke("ReloadFinished", reloadTime);
     }
