@@ -27,4 +27,9 @@ id: 4
 name: drugs
 stackable: true
 slug: drug
+,
+id: 5
+name: walkie
+stackable: true
+slug: walkytalky
 ;
