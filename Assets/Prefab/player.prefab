@@ -1697,7 +1697,6 @@ MonoBehaviour:
   muzzleFlash: {fileID: 0}
   bulletHoleMetal: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3, type: 3}
   ammunitionDisplay: {fileID: 1036978743975438471}
-  statTrack: {fileID: 2962255567729113725}
   allowInvoke: 1
   reloadAudio: {fileID: 8372176244262346852}
   fireAudio: {fileID: 4754829242749310280}
@@ -2342,6 +2341,7 @@ MonoBehaviour:
   guns:
   - {fileID: 5211935745824846388}
   - {fileID: 2516343474915111665}
+  gunsUI: []
 --- !u!1 &4278848161834800835
 GameObject:
   m_ObjectHideFlags: 0
@@ -2713,7 +2713,6 @@ MonoBehaviour:
   muzzleFlash: {fileID: 1000010254994808, guid: 9defeac88977c0d448aa4541073ee9e4, type: 3}
   bulletHoleMetal: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3, type: 3}
   ammunitionDisplay: {fileID: 1036978743975438471}
-  statTrack: {fileID: 2962255567729113725}
   allowInvoke: 1
   reloadAudio: {fileID: 2993298535929031400}
   fireAudio: {fileID: 3369131609580778908}
