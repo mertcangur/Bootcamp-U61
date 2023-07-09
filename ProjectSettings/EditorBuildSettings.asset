@@ -21,6 +21,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Winner.unity
     guid: a4f27d24684cca340b0c7060ee952201
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/Scenes/Start Screen.unity
     guid: 8206db15335f91d489c43ad08416dc09
+=======
+    path: Assets/Scenes/Lose.unity
+    guid: c30cd0cc3e82b12499970abbbf5e1172
+>>>>>>> Stashed changes
   m_configObjects: {}
