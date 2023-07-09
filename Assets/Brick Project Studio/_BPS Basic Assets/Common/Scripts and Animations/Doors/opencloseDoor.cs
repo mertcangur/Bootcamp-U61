@@ -11,6 +11,7 @@ using TMPro;
 		public Collider doorColl;
 		public bool open = false;
 		public TMP_Text fButton;
+		public Collider frameColl;
 
 		void Start()
 		{
@@ -21,14 +22,12 @@ using TMPro;
 		void Update(){
 			float dist = Vector3.Distance(Player.position, transform.position);
 			if(Player){
-				if( dist < 5f){
+				if( dist < 4f){
 					fButton.enabled = true;
 					if(Input.GetKeyDown(KeyCode.F)){
 					screwing.SetBool("Screwing", true);
 					StartCoroutine(Wait());
 
-				}else{
-					//fButton.enabled = false;
 				}
 			}
 			
@@ -43,6 +42,8 @@ using TMPro;
 			IEnumerator Wait() {
 				yield return new WaitForSeconds (3);
 				doorColl.enabled = enabled;
+				fButton.enabled = !enabled;
+				frameColl.enabled = !enabled;
 			}
 
 
