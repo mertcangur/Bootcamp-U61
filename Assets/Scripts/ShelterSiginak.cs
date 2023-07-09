@@ -8,14 +8,6 @@ public class ShelterSiginak : MonoBehaviour
     void OnMouseDown()
     {
         Debug.Log("Clicked");
-        StartCoroutine(Coroutine());
-        
-
-    }
-    IEnumerator Coroutine()
-    {
-        Debug.Log("corotunie");
-        yield return new WaitForSeconds(2);
         SceneManager.LoadScene("SampleScene");
 
     }

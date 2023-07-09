@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Inventory : MonoBehaviour
 {
     public ItemDataBase database;
-    int sloteAmount = 5;
+    int sloteAmount = 7;
     int storageAmount = 18;
    public GameObject slot;
    public GameObject hotbarPanel;
