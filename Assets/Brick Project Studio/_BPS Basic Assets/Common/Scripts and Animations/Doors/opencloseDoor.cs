@@ -22,7 +22,7 @@ using TMPro;
 		void Update(){
 			float dist = Vector3.Distance(Player.position, transform.position);
 			if(Player){
-				if( dist < 4f){
+				if( dist < 5f){
 					fButton.enabled = true;
 					if(Input.GetKeyDown(KeyCode.F)){
 					screwing.SetBool("Screwing", true);
