@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Winner.unity
     guid: a4f27d24684cca340b0c7060ee952201
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 8206db15335f91d489c43ad08416dc09
   m_configObjects: {}
