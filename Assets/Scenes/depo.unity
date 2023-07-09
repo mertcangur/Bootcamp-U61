@@ -4774,6 +4774,10 @@ PrefabInstance:
       value: 179
       objectReference: {fileID: 0}
     - target: {fileID: 10886990, guid: e15828603e27c5e42b39860e4f55da70, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 10886990, guid: e15828603e27c5e42b39860e4f55da70, type: 3}
       propertyPath: m_Lightmapping
       value: 4
       objectReference: {fileID: 0}
