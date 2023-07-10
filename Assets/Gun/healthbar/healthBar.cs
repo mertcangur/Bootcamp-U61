@@ -7,30 +7,44 @@ using UnityEngine.UI;
 public class healthBar : MonoBehaviour
 {
     [SerializeField] bool is_outside;
-    [SerializeField] float health = 100f;
-    [SerializeField] float danger = 100f;
+    public float health = 100f;
+    public float danger = 100f;
 
     [SerializeField] Image healtfBar;
     [SerializeField] Image dangerBar;
+
+    float heal = 100f;
+    float dang = 100f;
 
     void Start()
     {
         
     }
-
+    
     // Update is called once per frame
     void Update()
     {
+        
         if(is_outside && danger>=0f)
         {
-            danger -= Time.deltaTime;
+            danger -= Time.deltaTime * 1f;
+            dang = danger / 100;
         }
         else if(is_outside && danger<=0f && health>=0f)
         {
-            health -= Time.deltaTime;
+            health -= Time.deltaTime * 1f;
+            heal = health / 100;
+            
         }
-        healtfBar.fillAmount = health / 100;
-        dangerBar.fillAmount = danger / 100;
+        dangerBar.fillAmount = dang;
+        healtfBar.fillAmount = heal;
+
+        if (danger > 100f)
+            danger = 100f;
+        if (health > 100f)
+            health = 100f;
+
 
     }
+
 }
