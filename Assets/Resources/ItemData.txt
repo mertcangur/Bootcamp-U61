@@ -32,4 +32,9 @@ id: 5
 name: walkie
 stackable: true
 slug: walkytalky
+,
+id: 6
+name: Map
+stackable: true
+slug: Map
 ;

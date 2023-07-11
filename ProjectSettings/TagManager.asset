@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - InventoryManagement
+  - Rbullet
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,8 +15,17 @@ TagManager:
   - push
   - Water
   - UI
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - Player
+  - Enemy
+=======
+=======
+  - 
+>>>>>>> parent of ec94cbe (enemy)
   - 
   - 
+>>>>>>> parent of ec94cbe (enemy)
   - 
   - 
   - 
