@@ -26,7 +26,7 @@ public class gun : MonoBehaviour
     public Transform attackPoint;
 
     //Graphics
-    public GameObject muzzleFlash, bulletHoleMetal;//,bulletHoleBlood;
+    public GameObject muzzleFlash, bulletHoleMetal,bulletHoleBlood;
     public TextMeshProUGUI ammunitionDisplay;
 
     //bug Fixing
@@ -129,7 +129,7 @@ public class gun : MonoBehaviour
         float x = Random.Range(-spread, spread);
         float y = Random.Range(-spread, spread);
 
-        //calculate new direction with spread
+        //calculate new direction with spreads
         Vector3 directionWithSpread = directionWithoutSpread + new Vector3(x, y, 0);
 
 
@@ -147,13 +147,12 @@ public class gun : MonoBehaviour
         //Instantiate muzzle flash if you have one
         if (muzzleFlash != null)
             Instantiate(muzzleFlash, attackPoint.position, Quaternion.identity);
-        if (bulletHoleMetal != null)
+        if (bulletHoleBlood != null && hit.collider != null)
+            if(hit.collider.CompareTag("Enemy"))
+                Instantiate(bulletHoleBlood, hit.point, Quaternion.LookRotation(hit.normal));
+        else if (bulletHoleMetal != null)
             Instantiate(bulletHoleMetal, hit.point, Quaternion.LookRotation(hit.normal));
-        //Debug.Log(hit.collider.tag);
-        //if (hit.collider.CompareTag("enemy") && bulletHoleBlood != null)
-        //    Instantiate(bulletHoleBlood, hit.point, Quaternion.Euler(0, 180, 0));
-        //else if(bulletHoleMetal != null) 
-        //    Instantiate(bulletHoleMetal, hit.point, Quaternion.Euler(0, 180, 0));
+
 
         bulletsLeft--;
         bulletsShot++;

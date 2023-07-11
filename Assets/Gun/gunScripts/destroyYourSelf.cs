@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class destroyYourSelf : MonoBehaviour
 {
-
+    [SerializeField] float destroyTime;
     void Update()
     {
-        Invoke("destroy_it", 2f);
+        Invoke("destroy_it", destroyTime);
     }
     void destroy_it()
     {

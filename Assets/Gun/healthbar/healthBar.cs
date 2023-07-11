@@ -28,14 +28,16 @@ public class healthBar : MonoBehaviour
         if(is_outside && danger>=0f)
         {
             danger -= Time.deltaTime * 1f;
-            dang = danger / 100;
         }
         else if(is_outside && danger<=0f && health>=0f)
         {
             health -= Time.deltaTime * 1f;
-            heal = health / 100;
+            
             
         }
+        dang = danger / 100;
+
+        heal = health / 100;
         dangerBar.fillAmount = dang;
         healtfBar.fillAmount = heal;
 
