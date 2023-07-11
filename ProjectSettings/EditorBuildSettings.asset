@@ -4,14 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< Updated upstream
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/StoryBegin.unity
-    guid: a488c8f7e15770048a42211a79dbdfb9
   - enabled: 1
     path: Assets/Scenes/Start Screen.unity
     guid: 8206db15335f91d489c43ad08416dc09
+  - enabled: 1
+    path: Assets/Scenes/PreStory.unity
+    guid: df1b4eb239063bd4a8aef35cedf020f1
+  - enabled: 1
+    path: Assets/Scenes/StoryBegin.unity
+    guid: a488c8f7e15770048a42211a79dbdfb9
   - enabled: 1
     path: "Assets/Scenes/S\u0131g\u0131nak.unity"
     guid: fb03221c6373b9641bc34d667a821d25
@@ -19,9 +21,15 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/depo.unity
+    guid: c9bfd3f68f7d6114d893ddc195d1492b
+  - enabled: 1
+    path: Assets/Scenes/gizliSiginak.unity
+    guid: 4c369285efdbe3545973a5d72646664a
+  - enabled: 1
     path: Assets/Scenes/Lose.unity
     guid: c30cd0cc3e82b12499970abbbf5e1172
-=======
-  m_Scenes: []
->>>>>>> Stashed changes
+  - enabled: 1
+    path: Assets/Scenes/Winner.unity
+    guid: a4f27d24684cca340b0c7060ee952201
   m_configObjects: {}
