@@ -2208,7 +2208,7 @@ Transform:
   m_Children:
   - {fileID: 1809193558364761682}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!195 &4757879403808022438
 NavMeshAgent:
@@ -2311,13 +2311,13 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.528
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 2.060629
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -2353,7 +2353,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0

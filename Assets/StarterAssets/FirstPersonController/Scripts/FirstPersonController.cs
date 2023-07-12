@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 #if ENABLE_INPUT_SYSTEM
 using UnityEngine.InputSystem;
 #endif
@@ -64,6 +65,11 @@ namespace StarterAssets
 		private float _jumpTimeoutDelta;
 		private float _fallTimeoutDelta;
 
+		// Audio
+		private bool canStep = true;
+		[SerializeField] GameObject au;
+		private AudioSource audioS;
+		private float walkSpeed = 0.7f;
 	
 #if ENABLE_INPUT_SYSTEM
 		private PlayerInput _playerInput;
@@ -93,6 +99,7 @@ namespace StarterAssets
 			{
 				_mainCamera = GameObject.FindGameObjectWithTag("MainCamera");
 			}
+			audioS = au.GetComponent<AudioSource>();
 		}
 
 		private void Start()
@@ -115,7 +122,21 @@ namespace StarterAssets
 			JumpAndGravity();
 			GroundedCheck();
 			Move();
+			if (_input.move.magnitude >= 1 && Grounded && canStep)
+				StartCoroutine(footStep());
+			
+			if (_input.sprint) walkSpeed = 0.4f;
+			else walkSpeed = 0.7f;
+
 		}
+		IEnumerator footStep()
+        {
+			canStep = false;
+			audioS.PlayOneShot(audioS.clip);
+			yield return new WaitForSeconds(walkSpeed);
+			canStep = true;
+			yield return null;
+        }
 
 		private void LateUpdate()
 		{

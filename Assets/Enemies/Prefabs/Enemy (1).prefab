@@ -35,7 +35,7 @@ Transform:
   m_Children:
   - {fileID: 752719810223247168}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!195 &5332588330209747795
 NavMeshAgent:
@@ -144,7 +144,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 0.4895935
+  MinDistance: 2.155767
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0

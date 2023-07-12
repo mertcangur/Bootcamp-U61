@@ -15,12 +15,18 @@ public class pillAndaidKit : MonoBehaviour
     [SerializeField] Image danger;
     [SerializeField] Image health;
 
+    [Header("Clips")]
+    [SerializeField] AudioClip pillAu;
+    [SerializeField] AudioClip firstAu;
+
+    private AudioSource au;
     private Animator anim;
     private float dangerData;
     private float healthData;
     private bool forUsing = false;
     void Start()
     {
+        au = GetComponent<AudioSource>();
         anim = forAnim.GetComponent<Animator>();
         dangerData = GameObject.Find("healthhh").GetComponent<healthBar>().danger;
         healthData = GameObject.Find("healthhh").GetComponent<healthBar>().health;
@@ -42,6 +48,7 @@ public class pillAndaidKit : MonoBehaviour
         Weapons.gameObject.SetActive(false);
         forAnim.gameObject.SetActive(true);
         pill.gameObject.SetActive(true);
+        au.PlayOneShot(pillAu);
         anim.Play("Pill");
         dataSet(2);
         Invoke(nameof(weaponsBack), 1f);
@@ -55,6 +62,8 @@ public class pillAndaidKit : MonoBehaviour
         aidKit.gameObject.SetActive(true);
         anim.Play("aidKit");
         dataSet(1);
+        au.PlayOneShot(firstAu);
+        au.PlayOneShot(firstAu);
         Invoke(nameof(weaponsBack), 3f);
     }
 
@@ -70,9 +79,9 @@ public class pillAndaidKit : MonoBehaviour
     void dataSet(int num)
     {
         if(num == 1)
-            GameObject.Find("health").GetComponent<healthBar>().health += 25f;
+            GameObject.Find("healthhh").GetComponent<healthBar>().health += 25f;
         else
-            GameObject.Find("health").GetComponent<healthBar>().danger += 40f;
+            GameObject.Find("healthhh").GetComponent<healthBar>().danger += 40f;
 
     }
 
