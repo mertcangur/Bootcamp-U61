@@ -8,13 +8,13 @@ public class healthBar : MonoBehaviour
 {
     [SerializeField] bool is_outside;
     public float health = 100f;
-    public float danger = 100f;
+    public float danger = 0f;
 
     [SerializeField] Image healtfBar;
     [SerializeField] Image dangerBar;
 
     float heal = 100f;
-    float dang = 100f;
+    float dang = 0f;
 
     void Start()
     {
@@ -25,15 +25,13 @@ public class healthBar : MonoBehaviour
     void Update()
     {
         
-        if(is_outside && danger>=0f)
+        if(is_outside && danger<=100f)
         {
-            danger -= Time.deltaTime * 1f;
+            danger += Time.deltaTime * 1f;
         }
-        else if(is_outside && danger<=0f && health>=0f)
+        else if(is_outside && danger>=100f && health>=0f)
         {
             health -= Time.deltaTime * 1f;
-            
-            
         }
         dang = danger / 100;
 
@@ -41,8 +39,8 @@ public class healthBar : MonoBehaviour
         dangerBar.fillAmount = dang;
         healtfBar.fillAmount = heal;
 
-        if (danger > 100f)
-            danger = 100f;
+        if (danger < 0f)
+            danger = 0f;
         if (health > 100f)
             health = 100f;
 

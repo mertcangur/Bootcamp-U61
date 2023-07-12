@@ -36,7 +36,7 @@ public class pillAndaidKit : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.C) && forUsing == false && danger.fillAmount<1f)
+        if (Input.GetKeyDown(KeyCode.C) && forUsing == false && danger.fillAmount>0f)
             UsePill();
         if (Input.GetKeyDown(KeyCode.X) && forUsing == false && health.fillAmount<1f)
             UseAidKit();
@@ -81,7 +81,7 @@ public class pillAndaidKit : MonoBehaviour
         if(num == 1)
             GameObject.Find("healthhh").GetComponent<healthBar>().health += 25f;
         else
-            GameObject.Find("healthhh").GetComponent<healthBar>().danger += 40f;
+            GameObject.Find("healthhh").GetComponent<healthBar>().danger -= 40f;
 
     }
 
