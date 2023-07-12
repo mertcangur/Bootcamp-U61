@@ -22,8 +22,8 @@ public class pillAndaidKit : MonoBehaviour
     void Start()
     {
         anim = forAnim.GetComponent<Animator>();
-        dangerData = GameObject.Find("health").GetComponent<healthBar>().danger;
-        healthData = GameObject.Find("health").GetComponent<healthBar>().health;
+        dangerData = GameObject.Find("healthhh").GetComponent<healthBar>().danger;
+        healthData = GameObject.Find("healthhh").GetComponent<healthBar>().health;
 
     }
 

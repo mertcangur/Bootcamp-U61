@@ -8,6 +8,7 @@ public class zombieHealth : MonoBehaviour
 {
     private NavMeshAgent agent;
     private Animator anim;
+    private AudioSource au;
     float zombieH = 1f;
 
     [SerializeField] GameObject forAnim;
@@ -16,6 +17,7 @@ public class zombieHealth : MonoBehaviour
     {
         anim = forAnim.GetComponent<Animator>();
         agent = GetComponent<NavMeshAgent>();
+        au = GetComponent<AudioSource>();
     }
     private void Update()
     {
@@ -23,7 +25,9 @@ public class zombieHealth : MonoBehaviour
         if(zombieH <= 0f)
         {
             anim.SetBool("isDead", true);
+            au.Stop();
             agent.isStopped = true;
+            Invoke(nameof(destroyIt),6f);
         }
     }
     private void OnCollisionEnter(Collision collision)
@@ -35,5 +39,9 @@ public class zombieHealth : MonoBehaviour
     private void takeDamage(float damage)
     {
         zombieH -= damage;
+    }
+    private  void destroyIt()
+    {
+        GameObject.Destroy(gameObject);
     }
 }

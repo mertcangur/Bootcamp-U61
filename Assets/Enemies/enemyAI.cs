@@ -56,14 +56,19 @@ public class enemyAI : MonoBehaviour
         if (!walkPointSet) SearchWalkPoint();
 
         if (walkPointSet)
-            agent.SetDestination(walkPoint);
+        {
 
+            agent.SetDestination(walkPoint);
+        }
         Vector3 distanceToWalkPoint = transform.position - walkPoint;
 
         if (distanceToWalkPoint.magnitude < 1f)
-            walkPointSet = false;
+            Invoke(nameof(delayy), 4f);
     }
-
+    private void delayy()
+    {
+        walkPointSet = false;
+    }
     private void SearchWalkPoint()
     {
         float randomZ = Random.Range(-walkPointRange, walkPointRange);
@@ -112,7 +117,7 @@ public class enemyAI : MonoBehaviour
         if (Physics.Raycast(transform.position + new Vector3(0, 1.2f, 0), transform.TransformDirection(Vector3.forward), out hit, 1.5f))
         {
             if (hit.collider.CompareTag("Player"))
-                GameObject.Find("health").GetComponent<healthBar>().health -= 15f;
+                GameObject.Find("healthhh").GetComponent<healthBar>().health -= 15f;
 
         }
         yield return new WaitForSeconds(1.3f);
