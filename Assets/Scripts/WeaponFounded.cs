@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class WeaponFounded : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject rifle;
+    public GameObject RifleImage;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    void Start(){
+        RifleImage.SetActive(false);
+    }
+    void OnMouseDown(){
+        Destroy(rifle);
+        RifleImage.SetActive(true);
     }
 }

@@ -8,13 +8,11 @@ public class GerilimAudio : MonoBehaviour
     public Camera mainCam;
     public Camera AnimCam;
     public Canvas gameCanvas;
-    public Canvas AnimCanvas;
 
     void Start(){
         mainCam.enabled = true;
         AnimCam.enabled = false;
         gameCanvas.enabled = true;
-        AnimCanvas.enabled = false;
     }
 
     void OnTriggerEnter(Collider col){
@@ -23,7 +21,6 @@ public class GerilimAudio : MonoBehaviour
             mainCam.enabled = false;
             AnimCam.enabled = true;
             gameCanvas.enabled = false;
-            AnimCanvas.enabled = true;
 
         }
     }

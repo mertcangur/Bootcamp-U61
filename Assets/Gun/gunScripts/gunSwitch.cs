@@ -12,8 +12,8 @@ public class gunSwitch : MonoBehaviour
 
     private void Start()
     {
-        index = 1;
-        change(1);
+        index = 2;
+        change(2);
     }
 
     private void Update()
