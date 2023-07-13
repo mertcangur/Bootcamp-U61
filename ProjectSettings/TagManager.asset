@@ -7,6 +7,10 @@ TagManager:
   - CinemachineTarget
   - Rbullet
   - Enemy
+  - Plane
+  - Puzzle
+  - InventoryManagement
+  - Anim
   layers:
   - Default
   - TransparentFX
@@ -43,4 +47,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 1199421531
+    locked: 0
+  - name: 2
+    uniqueID: 2832981339
+    locked: 0
+  - name: 3
+    uniqueID: 3953824237
+    locked: 0
+  - name: 4
+    uniqueID: 951146343
+    locked: 0
+  - name: 5
+    uniqueID: 3863115103
+    locked: 0
+  - name: 6
+    uniqueID: 2909226837
     locked: 0

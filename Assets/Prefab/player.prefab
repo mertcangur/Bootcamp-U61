@@ -212,6 +212,7 @@ MonoBehaviour:
   TopClamp: 89
   BottomClamp: -89
   _speed: 0
+  au: {fileID: 0}
 --- !u!114 &6234371837801701409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1696,6 +1697,7 @@ MonoBehaviour:
   attackPoint: {fileID: 5154406982271224104}
   muzzleFlash: {fileID: 0}
   bulletHoleMetal: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3, type: 3}
+  bulletHoleBlood: {fileID: 0}
   ammunitionDisplay: {fileID: 1036978743975438471}
   allowInvoke: 1
   reloadAudio: {fileID: 8372176244262346852}
@@ -2712,6 +2714,7 @@ MonoBehaviour:
   attackPoint: {fileID: 6461018257651657014}
   muzzleFlash: {fileID: 1000010254994808, guid: 9defeac88977c0d448aa4541073ee9e4, type: 3}
   bulletHoleMetal: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3, type: 3}
+  bulletHoleBlood: {fileID: 0}
   ammunitionDisplay: {fileID: 1036978743975438471}
   allowInvoke: 1
   reloadAudio: {fileID: 2993298535929031400}
