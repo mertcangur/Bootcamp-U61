@@ -8,42 +8,42 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ch47_Body
-    second: {fileID: 2100000, guid: a5c166207d0e0a24bbbb4d06dda07975, type: 2}
+    second: {fileID: 2100000, guid: 7318a0268abfef947abe43a49f486a2e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ch47_hair
-    second: {fileID: 2100000, guid: 399327cfee199754988547d517e866a2, type: 2}
+    second: {fileID: 2100000, guid: 837993b6e19365e4aa9cf7083b81ed55, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch47_1001_Diffuse
-    second: {fileID: 2800000, guid: 1ca6538da732a564ca6b3e39ff50ac86, type: 3}
+    second: {fileID: 2800000, guid: 87fb38986754ef24fba82e3d94ee76fd, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch47_1001_Emissive
-    second: {fileID: 2800000, guid: 2b945858468f210428c4f4fafd649133, type: 3}
+    second: {fileID: 2800000, guid: 89f69e6655bab5a40a2375a783f61d6b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch47_1001_Glossiness
-    second: {fileID: 2800000, guid: 8d4ef74e1e940ba42954399a36a0c6a9, type: 3}
+    second: {fileID: 2800000, guid: b300a842ae49d404fa9a3b62aa5da3ea, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch47_1001_Normal
-    second: {fileID: 2800000, guid: 80ab30c670164414bbf521844cd2e91a, type: 3}
+    second: {fileID: 2800000, guid: 31d85e20020c92a49abab70f33bb8d17, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch47_1001_Specular
-    second: {fileID: 2800000, guid: 2dcd49b48a3178546af5010038f447c6, type: 3}
+    second: {fileID: 2800000, guid: 592f714ef159c8e4c8bec8d48e62ad21, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch47_1002_Diffuse
-    second: {fileID: 2800000, guid: 3ac33ced6672e8d4db6076488b7b1b0a, type: 3}
+    second: {fileID: 2800000, guid: 74e79007fb6c0bc45959bff34ca072df, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -71,36 +71,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: mixamo.com
-      takeName: mixamo.com
-      internalID: -203655887218126122
-      firstFrame: 0
-      lastFrame: 178
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 1
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 0
   meshes:
     lODScreenPercentages: []
