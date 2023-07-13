@@ -23,9 +23,10 @@ public class AnimCanvasScript : MonoBehaviour
     void Start(){
         dialog.enabled=false;
         //dialogs.Add("- THIS PLACE SEEMS ABANDONED");
-        dialogs.Add("- WAIT..." + "\n" + "- WH.. WHO ARE YOU?" + "\n" + "- IS IT A HUMAN!");
+        //dialogs.Add("- WAIT..." + "\n" + "- WH.. WHO ARE YOU?" + "\n" + "- IS IT A HUMAN!");
         dialogs.Add("+ HEY CALM DOWN DUDE." + "\n" + " +IM DOCTOR ELLY.");
-        dialogs.Add("+ REMOVE THIS GUN!" + "\n" + "+ THIS PLACE IS LEFTED IM SEARCHING FOR SOME DRUGS." + "\n" + " + SO, WHY ARE YOU HERE?");
+        dialogs.Add("- WHAT ARE YOU DOING HERE!"+"\n"+ "+ REMOVE THIS GUN!");
+        dialogs.Add("+ THIS PLACE IS LEFTED IM SEARCHING FOR SOME DRUGS." + "\n" + " + SO, WHY ARE YOU HERE?");
         dialogs.Add("- I.. IM LOOKING FOR MY SON." + "\n" + "\n" + " + PEOPLE LEFT THIS SHELTER A FEW MONTHS AGO. ALL PEOPLE STAYS AT THE SECRET GARDEN. BUT... BUT MOST OF THE CHILDREN HAVE BEEN TAKEN!" + "\n" + "\n" +"- GOD... WHAT WILL I DO");
         dialogs.Add("+ HERE IS A MAP, IT IS SO DANGEROUS BUT THERE IS A WEAPON IN THIS SHELTER. FIND IT AND BE AWARE! ");
     }

@@ -967,12 +967,25 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1.3490463, y: 3.8586197, z: 0.14652929}
-  m_Center: {x: -0.7254762, y: 1.9999998, z: 0}
+  m_Size: {x: 4.0541983, y: 3.85862, z: 7.874544}
+  m_Center: {x: -0.00738359, y: 1.9999999, z: 3.8640094}
+--- !u!114 &93501579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 93501573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b738264f513d24fb8544499b8520b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rifle: {fileID: 62736519}
 --- !u!1 &107659141
 GameObject:
   m_ObjectHideFlags: 0
@@ -4768,7 +4781,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '- THIS PLACE SEEMS ABANDONED'
+  m_text: '- THIS PLACE SEEMS ABANDONED, WAIT...
+
+    - WH.. WHO ARE YOU?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7072,6 +7087,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 100000, guid: 2107a071ee618844a887d2f12ada9fd3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 93501578}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 2107a071ee618844a887d2f12ada9fd3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 93501579}
   m_SourcePrefab: {fileID: 100100000, guid: 2107a071ee618844a887d2f12ada9fd3, type: 3}
 --- !u!1001 &1047215735
 PrefabInstance:
@@ -9663,12 +9681,25 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1.3490463, y: 3.85862, z: 0.14652929}
   m_Center: {x: -0.7254762, y: 1.9999999, z: 0}
+--- !u!114 &1376076391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376076385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b738264f513d24fb8544499b8520b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rifle: {fileID: 62736519}
 --- !u!1 &1396298991
 GameObject:
   m_ObjectHideFlags: 0
@@ -11384,6 +11415,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 100000, guid: 2107a071ee618844a887d2f12ada9fd3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1376076390}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 2107a071ee618844a887d2f12ada9fd3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1376076391}
   m_SourcePrefab: {fileID: 100100000, guid: 2107a071ee618844a887d2f12ada9fd3, type: 3}
 --- !u!1001 &1626068166
 PrefabInstance:
