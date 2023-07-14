@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -11751,7 +11751,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 58, y: 69}
+  m_AnchoredPosition: {x: -260.9, y: 135}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1684951820
@@ -11774,9 +11774,59 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Information
+  m_text: 'STORY Of  THE FILIUS
 
-'
+
+    "Day 1:
+
+    Today, I find myself among the
+    few who survived the aftermath of a devastating nuclear event. The world has
+    crumbled, reduced to ruins. Cities lie in ruins, nature cloaked in eerie silence.
+    Humanity teeters on the edge of oblivion.
+
+    
+
+    Day 10:
+
+    Our struggle
+    for survival continues. Each day brings new challenges as we scavenge for resources.
+    Cooperation among survivors is vital. Together, we are stronger. A flicker of
+    hope burns within me, driving me to find my lost son. I press on, fueled by the
+    dream of a reunion.
+
+    
+
+    Day 25:
+
+    We journey through adversity,
+    overcoming dangers in our path. Time has passed, but hope still burns. I search
+    tirelessly for my son, willing to do whatever it takes to bring him back. United
+    with fellow survivors, we forge ahead, drawing nearer to our goal.
+
+    
+
+    Day
+    50:
+
+    We persevere, growing stronger with every passing day. Sharing resources
+    and supporting one another gives us a greater chance of survival. The flame of
+    hope to find my son shines bright. Even in this harsh world, the possibility
+    of reuniting with our loved ones remains.
+
+    
+
+    Day 100:
+
+    The flame
+    of hope within me refuses to waver, guiding our every step. Our journey has been
+    arduous, but we refuse to surrender. Unity among survivors empowers us to overcome
+    adversity. With caution, I move forward, fueled by the mission to find my son.
+
+    
+
+    In
+    this desolate world, we continue to fight, clinging to hope and striving to turn
+    the dream of reuniting with our loved ones into reality."'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -11803,14 +11853,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17.15
-  m_fontSizeBase: 17.15
+  m_fontSize: 11.75
+  m_fontSizeBase: 11.75
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -11839,7 +11889,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -520.89, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
