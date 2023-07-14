@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using TMPro;
+using Cinemachine;
 
 
 public class AnimCanvasScript : MonoBehaviour
@@ -16,6 +17,7 @@ public class AnimCanvasScript : MonoBehaviour
     
     public GameObject Doktor;
     public Collider coll;
+    public Animator CamAnim;
     public TMP_Text dialog;
     List<string> dialogs = new List<string>();
     
@@ -31,9 +33,10 @@ public class AnimCanvasScript : MonoBehaviour
         dialogs.Add("+ HERE IS A MAP, IT IS SO DANGEROUS BUT THERE IS A WEAPON IN THIS SHELTER. FIND IT AND BE AWARE! ");
     }
 
-    void Update()
+    public void Update()
     {
         if(AnimCam.enabled){
+            CamAnim.SetBool("Opened", true);
             dialog.enabled=true;
             if(true && Input.GetKeyDown(KeyCode.Space))
             {
@@ -49,6 +52,7 @@ public class AnimCanvasScript : MonoBehaviour
                     num++;
                     print(num);
                 }else{
+                    CamAnim.SetBool("Opened", false);
                     dialog.enabled=false;
                     Player.transform.position = new Vector3(-4.10159779f,-0.765999973f,8.26251411f);
                     AnimCam.enabled = false;

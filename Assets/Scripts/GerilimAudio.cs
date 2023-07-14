@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Cinemachine;
 
 public class GerilimAudio : MonoBehaviour
 {
@@ -15,7 +16,7 @@ public class GerilimAudio : MonoBehaviour
         gameCanvas.enabled = true;
     }
 
-    void OnTriggerEnter(Collider col){
+    public void OnTriggerEnter(Collider col){
         
         if (col.gameObject.tag == "Anim"){
             mainCam.enabled = false;
