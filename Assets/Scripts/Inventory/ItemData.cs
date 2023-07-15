@@ -14,7 +14,7 @@ public class ItemData : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
 
     void Start()
     {
-        inv = GameObject.FindGameObjectWithTag("InventoryManagement").GetComponent<Inventory>();
+       inv = GameObject.FindGameObjectWithTag("InventoryManagement").GetComponent<Inventory>();
         this.transform.position = inv.slots[curSlot].transform.position;
     }
 

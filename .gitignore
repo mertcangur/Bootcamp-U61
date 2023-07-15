@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Resources/LOGO.png
+Assets/Resources/LOGO.png.meta
+Assets/Scenes/depo.unity
+Assets/Scenes/SampleScene.unity
+Assets/UnityTechnologies/ParticlePack/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+ProjectSettings/ProjectSettings.asset
