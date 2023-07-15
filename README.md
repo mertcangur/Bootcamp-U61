@@ -150,7 +150,8 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 +  **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. İlk 2 sprintimizden kalan 100 puan ile sprint sürecimizi tamamlamayı hedefliyoruz.
 
-+  + **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağladı. [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
++  + **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağladı. [Sprint 3 Daily Scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/12062277/sprint3.docx)
+ </br>
 
 + **Sprint board update:** Sprint board screenshotları:
   
