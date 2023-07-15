@@ -160,9 +160,10 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 
 + **Oyun Durumu:** Screenshotlar
+![Ingame](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/909bf65a-ee7e-49ec-b479-deefdf4ae040)
 
-![Uploading game.png…]()
-![Uploading Ingame.png…]()
+![game](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/cbcd5f3e-7ec6-4cbf-9d50-546aeb107189)
+
 ![gameplay](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/de2d276d-7a35-4c85-9acd-322d4fff370a)
 
 
