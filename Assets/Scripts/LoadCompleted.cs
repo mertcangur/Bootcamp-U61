@@ -11,5 +11,9 @@ public class LoadCompleted : MonoBehaviour
         SceneManager.LoadScene("Winner");
         
     }
-
+   //public void loadSampleScence()
+   //{
+   //    SceneManager.LoadScene("SampleScene");
+   //}
 }
+
