@@ -9,8 +9,10 @@ public class Timer : MonoBehaviour
    public float TimeLeft;
    public bool TimeOn = false;
    public TMP_Text TimerText;
+   public TMP_Text TimeOut;
 
    void Start(){
+        TimeOut.enabled = false;
         TimeOn = true;
    }
    void Update(){
@@ -19,7 +21,7 @@ public class Timer : MonoBehaviour
             TimeLeft -= Time.deltaTime;
             UpdateTimer(TimeLeft);
         }else{
-            SceneManager.LoadScene("Lose");
+            StartCoroutine(Coroutine());
             TimeLeft = 0;
             TimeOn = false;
         }
@@ -33,4 +35,12 @@ public class Timer : MonoBehaviour
 
 
    }
+   
+    IEnumerator Coroutine()
+    {
+        Debug.Log("corotunie");
+        TimeOut.enabled = true;
+        yield return new WaitForSeconds(2);
+        SceneManager.LoadScene("Lose");
+    }
 }
