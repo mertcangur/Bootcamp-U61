@@ -1,3 +1,4 @@
+![gameplay](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/898b00bd-e06a-4964-b815-6f61da39f311)
 
 <h2>Takım İsmi</h2>
 
@@ -160,7 +161,10 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 + **Oyun Durumu:** Screenshotlar
 
-#SCREENSHOTLAR
+![Uploading game.png…]()
+![Uploading Ingame.png…]()
+![gameplay](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/de2d276d-7a35-4c85-9acd-322d4fff370a)
+
 
 </br>
 
