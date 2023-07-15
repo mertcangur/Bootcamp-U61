@@ -148,20 +148,18 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 + **Sprint içinde tamamlanması tahmin edilen puan:** 110 Puan
 
-+  **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 110 ile devam etmesi gerektiğine karar verilmiştir.
++  **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. İlk 2 sprintimizden kalan 100 puan ile sprint sürecimizi tamamlamayı hedefliyoruz.
 
-+  + **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağladı [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
++  + **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağladı. [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
 
 + **Sprint board update:** Sprint board screenshotları:
   
-![sprint2](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/8ecd1d7c-99d0-4393-98c0-83f2cb6171fe)
+#SCREENSHOTLAR
 
 
 + **Oyun Durumu:** Screenshotlar
 
- ![Screenshot_3](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/8a7ad1f2-2145-4980-a124-14a05bcb70cd)
-![gameSS1](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/403e4505-a113-4bd5-8534-ffa6f00280cb)
-![sprint2gameSS](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/f0302044-41fe-479b-a6a1-987cf46af177)
+#SCREENSHOTLAR
 
 </br>
 
