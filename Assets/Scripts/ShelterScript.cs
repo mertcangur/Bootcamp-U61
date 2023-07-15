@@ -18,7 +18,7 @@ public class ShelterScript : MonoBehaviour
     {
         collectedObjectNum++;
         Debug.Log(collectedObjectNum);
-        if (collectedObjectNum == 5)
+        if (collectedObjectNum == 6)
         {
             coll.enabled = true;
         }
