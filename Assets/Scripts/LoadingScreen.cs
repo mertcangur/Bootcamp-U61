@@ -16,7 +16,7 @@ public class LoadingScreen : MonoBehaviour
 
     IEnumerator LoadScemeAsync(int sceneId)
     {
-        AsyncOperation operation = SceneManager.LoadSceneAsync("SÄ±gÄ±nak");
+        AsyncOperation operation = SceneManager.LoadSceneAsync("Sýgýnak");
 
         LoadingScren.SetActive(true);
 
