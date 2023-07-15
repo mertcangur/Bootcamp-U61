@@ -1,4 +1,3 @@
-![gameplay](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/898b00bd-e06a-4964-b815-6f61da39f311)
 
 <h2>Takım İsmi</h2>
 
