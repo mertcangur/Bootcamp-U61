@@ -130,3 +130,67 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 [Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
 
+
+# Sprint 3
+
+<ul>
+<li><b> Sprint Notları:</b></br>
+<ul>
+<li>Miro Board üzerindeki kırmızı item'lar, yapılacak işleri (task'leri) gösterirken, mavi item'lar story'leri temsil etmektedir. Bu renk kodlamasına dikkat ederek çalışmalarımızı sürdüreceğiz.</li>
+
+<li>Sorunların daha hızlı çözümü ve engellerin aşılması için takım içi iletişimi güçlendirmeye devam edeceğiz..</li>
+<li>Sprint sürecindeki eksiklerimizi ve tamamlanan görevlerimizi değerlendirmeye devam edeceğiz.</li>
+
+
+</ul>
+</li>
+</ul>
+
++ **Sprint içinde tamamlanması tahmin edilen puan:** 110 Puan
+
++  **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 110 ile devam etmesi gerektiğine karar verilmiştir.
+
++  + **Daily Scrum:** Daily Scrum toplantıları discord üzerinden yapıldı. Gerekli asset, fikir ve mekanik çalışmaları discord kanallarında paylaşıldı. Takım üyeleri aktif olarak katılım sağladı [Sprint 2 Daily scrums.docx](https://github.com/mertcangur/Bootcamp-U61/files/11902932/sprint2.docx) </br>
+
++ **Sprint board update:** Sprint board screenshotları:
+  
+![sprint2](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/8ecd1d7c-99d0-4393-98c0-83f2cb6171fe)
+
+
++ **Oyun Durumu:** Screenshotlar
+
+ ![Screenshot_3](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/8a7ad1f2-2145-4980-a124-14a05bcb70cd)
+![gameSS1](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/403e4505-a113-4bd5-8534-ffa6f00280cb)
+![sprint2gameSS](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/f0302044-41fe-479b-a6a1-987cf46af177)
+
+</br>
+
+
+<ul>
+<li><b> Sprint Rewiew:</b></br>
+<ul>
+<li>Alınan Kararlar:
+<ul>
+<li>Uzay temalı bir oyun yerine, nükleer patlama sonrası bir baba oğul ilişkisi üzerine odaklanan bir bulmaca aksiyon tarzı oyun yapma kararı aldık. Bu kararla,        oyunculara duygusal bir hikaye sunarken aynı zamanda bulmacalar ve aksiyon unsurlarıyla heyecan verici bir deneyim yaşatmayı hedefliyoruz.</li>
+</ul>
+</li>
+
+<li>İlerlemeler:
+<ul>
+<li> Bölüm tasarımları ve mekanikler üzerinde çalışmaya devam ettik. Nükleer patlama sonrası atmosferi, baba oğul ilişkisini ve bulmacaları içeren etkileyici bir oyun dünyası oluşturmak için yoğun çaba sarf ettik.
+Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin edici bir deneyim yaşamalarını sağlamak için farklı mekanikler üzerinde çalıştık.</li>
+  <li> Bu sprintteki kararlarımız ve ilerlemelerimiz, oyunun hedeflerine uygun bir şekilde ilerlememizi sağladı. İlerleyen sprintlerde, bulmaca aksiyon tarzı oyunun atmosferini ve baba oğul ilişkisini daha da derinleştirerek, oyuncuların benzersiz bir deneyim yaşamalarını hedefliyoruz.</li>
+</ul>
+</li>
+</li>
+</ul>
+</ul>
+
+</br>
+
++ **Sprint Retrospektive:** Ekibimiz zamanla daha iyi kaynaşmış durumda ve birbirimizle daha iyi iletişim kuruyoruz. Ancak, son sprintte tahmin ettiğimiz ilerleme planının gerisinde kaldık ve bayram tatili nedeniyle planımız aksamış durumda. Bu durum moralimizi bozsa da, 3. sprintte bu sorunu düzeltmeye kararlıyız.
+ </br> </br>
+ 
+<h2> Product Backlog URL</h2>
+
+[Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
