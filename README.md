@@ -191,7 +191,7 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 </br>
 
-+ **Sprint Retrospektive:** Ekibimiz zamanla daha iyi kaynaşmış durumda ve birbirimizle daha iyi iletişim kuruyoruz. Ancak, son sprintte tahmin ettiğimiz ilerleme planının gerisinde kaldık ve bayram tatili nedeniyle planımız aksamış durumda. Bu durum moralimizi bozsa da, 3. sprintte bu sorunu düzeltmeye kararlıyız.
++ **Sprint Retrospektive:** 2.Sprintte aksayan planımızı bu sprintd de daha çok çalışarak. Durumu telafi ettik ve oyunumuzu tamamladık.
  </br> </br>
  
 <h2> Product Backlog URL</h2>
