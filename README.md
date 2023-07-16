@@ -31,7 +31,6 @@ Tatmin eden bir hikaye
 Karanlık tema
 </li></br>
 <li>Puzzle Mekanikleri</li></br>
-<li>Kaan Çelik: Developer</li> </br>
 </ul>
 
 ### Product Backlog URL
