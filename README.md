@@ -41,9 +41,7 @@ Karanlık tema
 <li>
 Hayatta kalma, aksiyon ve strateji tarzı oyun severler
 </li></br>
-<li>
-Karanlık tema
-</li></br>
+
 </ul>
 
 ### Product Backlog URL
