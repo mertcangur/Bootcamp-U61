@@ -51,7 +51,8 @@ Hayatta kalma, aksiyon ve strateji tarzı oyun severler
 [Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
 
 ## Kullanılan assetler
---
+[Assets.txt](https://github.com/mertcangur/Bootcamp-U61/files/12064916/Asset_link.txt)
+
 
 # Sprint 1
 
