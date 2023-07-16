@@ -16,7 +16,11 @@ Bootcamp-U61: **Gabbies** </br>
 ### THE FILIUS
 ## Ürün Açıklaması
 
- **The Filius :** 
+ **The Filius :** Nükleer bir patlamadan sonra kaybolan oğlunu bulmaya çalışan bir babanın hikayesini takip eden heyecan verici bir bulmaca oyunu olan "The filius", sizi zorlu bir dünyaya götürüyor.
+
+Korku dolu bir ortamda zombilerle dolu sokaklarda ve harabe binalarda hayatta kalmanız gereken bu oyunda, stratejik düşünerek bulmacaları çözmeli ve oğlunuzun izini sürebilmek için gizli geçitleri keşfetmelisiniz.
+
+Nükleer İz, sürükleyici hikayesi, etkileyici görselleri ve taktiksel bulmacalarıyla sizleri içine çekiyor. Hayatta kalmak için akıllıca kararlar verin ve oğlunuzu bulmak için umut dolu bir maceraya atılın!
 
 ## Ürün özellikleri
 <ul>
