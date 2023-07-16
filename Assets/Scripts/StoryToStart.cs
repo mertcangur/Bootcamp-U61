@@ -13,7 +13,7 @@ public class StoryToStart : MonoBehaviour
 
     private IEnumerator loadScenceStart()
     {
-        yield return new WaitForSeconds(39f);
+        yield return new WaitForSeconds(34f);
         SceneManager.LoadSceneAsync("Start Screen");
     }
 }
