@@ -1469,7 +1469,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1745258966}
-        m_TargetAssemblyTypeName: LoadCompleted, Assembly-CSharp
+        m_TargetAssemblyTypeName: LoseScence, Assembly-CSharp
         m_MethodName: loadSampleScence
         m_Mode: 1
         m_Arguments:
@@ -1641,7 +1641,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1745258963}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc9bfbea90cf7634eb5378891a874c04, type: 3}
+  m_Script: {fileID: 11500000, guid: 9b1f5ed9075bb16408a22d188b3bf67a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &1900845776
