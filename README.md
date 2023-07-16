@@ -174,15 +174,13 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 <ul>
 <li>Alınan Kararlar:
 <ul>
-<li>Uzay temalı bir oyun yerine, nükleer patlama sonrası bir baba oğul ilişkisi üzerine odaklanan bir bulmaca aksiyon tarzı oyun yapma kararı aldık. Bu kararla,        oyunculara duygusal bir hikaye sunarken aynı zamanda bulmacalar ve aksiyon unsurlarıyla heyecan verici bir deneyim yaşatmayı hedefliyoruz.</li>
+<li> 2. Sprintte belirlediği şekilde Oyunun hikayesini nükleer savaş sonrasında baba ve oğul temasına uygun şekilde geliştirmek ve tamamlamak.</li>
 </ul>
 </li>
 
 <li>İlerlemeler:
 <ul>
-<li> Bölüm tasarımları ve mekanikler üzerinde çalışmaya devam ettik. Nükleer patlama sonrası atmosferi, baba oğul ilişkisini ve bulmacaları içeren etkileyici bir oyun dünyası oluşturmak için yoğun çaba sarf ettik.
-Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin edici bir deneyim yaşamalarını sağlamak için farklı mekanikler üzerinde çalıştık.</li>
-  <li> Bu sprintteki kararlarımız ve ilerlemelerimiz, oyunun hedeflerine uygun bir şekilde ilerlememizi sağladı. İlerleyen sprintlerde, bulmaca aksiyon tarzı oyunun atmosferini ve baba oğul ilişkisini daha da derinleştirerek, oyuncuların benzersiz bir deneyim yaşamalarını hedefliyoruz.</li>
+<li> Oyundaki genel hatalar tamamlanıp UI kısmına başlandı ve teslime hazır hale getildi.</li>
 </ul>
 </li>
 </li>
