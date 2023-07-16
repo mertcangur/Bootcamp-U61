@@ -1,7 +1,7 @@
 
 <h2>Takım İsmi</h2>
 
-Bootcamp-U61: **Gabbies** </br>
+Bootcamp-U61: **Gabbies Game** </br>
 <h2>Ürün İle İlgili Bilgiler</h2>
 <h3>Takım Üyeleri</h3></br>
 <ul>
@@ -13,14 +13,14 @@ Bootcamp-U61: **Gabbies** </br>
 </ul>
 
 ## Ürün İsmi </br>
-### THE FILIUS ORIGIN
+### THE FILIUS: ORIGIN
 ## Ürün Açıklaması
 
- **The Filius Origin:** Nükleer bir patlamadan sonra kaybolan oğlunu bulmaya çalışan bir babanın hikayesini takip eden heyecan verici bir bulmaca oyunu olan "The filius origin", sizi zorlu bir dünyaya götürüyor.
-
-Korku dolu bir ortamda zombilerle dolu sokaklarda ve harabe binalarda hayatta kalmanız gereken bu oyunda, stratejik düşünerek bulmacaları çözmeli ve oğlunuzun izini sürebilmek için gizli geçitleri keşfetmelisiniz.
-
-Nükleer İz, sürükleyici hikayesi, etkileyici görselleri ve taktiksel bulmacalarıyla sizleri içine çekiyor. Hayatta kalmak için akıllıca kararlar verin ve oğlunuzu bulmak için umut dolu bir maceraya atılın!
+ **The Filius: Origin:** Dünya'da giderek şiddeti artan nükleer silahların sonrasında, evrim ile alakalı pek çok da teori türemiştir. The Filius oyununun ilk versiyonu olan Origin'de nükleer bir patlama sonrası türeyen çeşitli canavarlar bulunmaktadır. Atmosfer zehir oranı çok yüksek olduğu için hayatta kalmayı başaran son insanlar da sığınaklara çekilmiştir. 
+Ana karakterimiz nükleer patlamadan sonra kaybolan oğlunu bulmaya çalışan bir babanın en umutsuz anında aldığı bir telsiz sesiyle çıktığı macera dolu hikayesini takip eden heyecan verici bir bulmaca oyunu olan "The filius", sizi zorlu bir dünyaya götürüyor.
+Sığınaklarda bekleyen bulmacalar, dış dünyada varolan gerilim... Korku dolu bir ortamda zombilerle dolu sokaklarda ve harabe binalarda hayatta kalmanız gereken bu oyunda, stratejik düşünerek bulmacaları çözmeli ve oğlunuzun izini sürebilmek için gizli geçitleri keşfetmelisiniz.
+Nükleer İz, nefesinizi dahi keserken "pill" ve "aidkit" kullanarak hayatta kalmalı; silah mekanikleriyle savaşmalı ve süre sınırı olan sahneleri başarıyla tamamlamalısınız.
+Sürükleyici hikayesi, etkileyici görselleri ve taktiksel bulmacalarıyla sizleri içine çeken bu dünyaya hazır olmalısınız. Hayatta kalmak için akıllıca kararlar verin ve oğlunuzu bulmak için umut dolu bir maceraya atılın! 
 
 ## Ürün özellikleri
 <ul>
@@ -33,7 +33,9 @@ Tatmin eden bir hikaye
 <li>
 Karanlık tema
 </li></br>
-<li>Puzzle Mekanikleri</li></br>
+<li>Puzzle ve Bulmaca Mekanikleri</li></br>
+  </li></br>
+<li>Survival Ögeler</li></br>
 </ul>
 
 ## Hedef kitle
