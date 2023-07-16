@@ -32,9 +32,9 @@ Tatmin eden bir hikaye
 </li></br>
 <li>
 Karanlık tema
-</li>
-<li>Puzzle ve Bulmaca Mekanikleri</li></br>
 </li></br>
+<li>Puzzle ve Bulmaca Mekanikleri</li></br>
+</li>
 <li>Survival Ögeler</li></br>
 </ul>
 
