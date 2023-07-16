@@ -1,7 +1,7 @@
 
 <h2>Takım İsmi</h2>
 
-## Bootcamp-U61: **Gabbies** </br>
+Bootcamp-U61: **Gabbies** </br>
 <h2>Ürün İle İlgili Bilgiler</h2>
 <h3>Takım Üyeleri</h3></br>
 <ul>
