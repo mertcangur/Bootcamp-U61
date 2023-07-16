@@ -17,7 +17,22 @@
 ### THE FILIUS
 # Ürün Açıklaması
 
+# Ürün özellikleri
 
+
+<ul>
+<li>
+Hızlı ve akıcı oynayış
+</li></br>
+<li>
+Tatmin eden bir hikaye
+</li></br>
+<li>
+Karanlık tema
+</li></br>
+<li>Puzzle Mekanikleri</li></br>
+<li>Kaan Çelik: Developer</li> </br>
+</ul>
 
 ### Product Backlog URL
 
