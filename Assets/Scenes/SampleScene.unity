@@ -11017,7 +11017,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Phoenix City
+  m_text: PHOENIX CITY
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ea7f6dd3e5d9b0a4c879d369ab62997a, type: 2}
   m_sharedMaterial: {fileID: -870414614185619139, guid: ea7f6dd3e5d9b0a4c879d369ab62997a, type: 2}
@@ -61411,8 +61411,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "PRESS \"M\" TO USE MAP AND FIND THE TARGET SHELTER.\nBE CAREFUL W\u0130TH
-    MONSTERS!"
+  m_text: 'PRESS "M" TO USE MAP AND FIND THE TARGET SHELTER.
+
+    BE CAREFUL WITH
+    MONSTERS!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

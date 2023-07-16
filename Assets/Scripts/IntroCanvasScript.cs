@@ -17,10 +17,10 @@ public class IntroCanvasScript : MonoBehaviour
         introCanvas.enabled = true;
         Player.SetActive(false);
 
-        introText.Add("These is not a shelter...");
+        introText.Add("This is not a shelter...");
         introText.Add("Monsters have invaded this place!");
-        introText.Add("I have to find my filius before they come.");
-        introText.Add("I am gona search around for some tools and my son!");
+        introText.Add("I have to find my son before they come.");
+        introText.Add("Im gona search around for some tools and my son!");
     }
 
     void Update(){

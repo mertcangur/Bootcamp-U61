@@ -38,7 +38,7 @@ public class Timer : MonoBehaviour
    
     IEnumerator Coroutine()
     {
-        Debug.Log("corotunie");
+        Debug.Log("coroutine");
         TimeOut.enabled = true;
         yield return new WaitForSeconds(2);
         SceneManager.LoadScene("Lose");
