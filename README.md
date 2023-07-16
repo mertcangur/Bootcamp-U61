@@ -5,8 +5,8 @@ Bootcamp-U61: **Gabbies** </br>
 <h2>Ürün İle İlgili Bilgiler</h2>
 <h3>Takım Üyeleri</h3></br>
 <ul>
-<li>Sabriye Nur Şentürk: Product Owner / Developer</li></br>
-<li>Mertcan Gür: Scrum Master / Developer</li></br>
+<li>Sabriye Nur Şentürk: Product Owner - Developer</li></br>
+<li>Mertcan Gür: Scrum Master - Developer</li></br>
 <li>Elif Ezgi Çay: Developer - Artist</li></br>
 <li>Murat Aydemir: Developer - 3D Artist</li></br>
 <li>Kaan Çelik: Developer</li> </br>
