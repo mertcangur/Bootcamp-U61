@@ -44,9 +44,11 @@ Hayatta kalma, aksiyon ve strateji tarzı oyun severler
 
 </ul>
 
-### Product Backlog URL
-
+## Product Backlog URL
 [Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
+
+## Kullanılan assetler
+--
 
 # Sprint 1
 
@@ -217,7 +219,7 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 </br>
 
-+ **Sprint Retrospektive:** 2.Sprintte aksayan planımızı bu sprintd de daha çok çalışarak. Durumu telafi ettik ve oyunumuzu tamamladık.
++ **Sprint Retrospektive:** 2.Sprintte aksayan planımızı bu sprint de daha çok çalışarak. Durumu telafi ettik ve oyunumuzu tamamladık.
  </br> </br>
  
 <h2> Product Backlog URL</h2>
