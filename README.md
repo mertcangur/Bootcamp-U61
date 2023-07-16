@@ -13,13 +13,13 @@ Bootcamp-U61: **Gabbies** </br>
 </ul>
 </br>
 
-## Ürün İsmi </br>
+### Ürün İsmi </br>
 ### THE FILIUS
-# Ürün Açıklaması
+## Ürün Açıklaması
 
  **The Filius :** 
 
-# Ürün özellikleri
+## Ürün özellikleri
 <ul>
 <li>
 Hızlı ve akıcı oynayış
@@ -33,7 +33,7 @@ Karanlık tema
 <li>Puzzle Mekanikleri</li></br>
 </ul>
 
-# Hedef kitle
+## Hedef kitle
 <ul>
 <li>
 13 yaş ve üstü oyuncular
