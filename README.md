@@ -33,6 +33,19 @@ Karanlık tema
 <li>Puzzle Mekanikleri</li></br>
 </ul>
 
+# Ürün özellikleri
+<ul>
+<li>
+13 yaş ve üstü oyuncular
+</li></br>
+<li>
+Hayatta kalma, aksiyon ve strateji tarzı oyun severler
+</li></br>
+<li>
+Karanlık tema
+</li></br>
+</ul>
+
 ### Product Backlog URL
 
 [Unity Team U-61 Miro Backlog Board](https://miro.com/app/board/uXjVM-322W8=/)</br>
