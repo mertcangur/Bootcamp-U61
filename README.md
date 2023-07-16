@@ -33,7 +33,7 @@ Karanlık tema
 <li>Puzzle Mekanikleri</li></br>
 </ul>
 
-# Ürün özellikleri
+# Hedef kitle
 <ul>
 <li>
 13 yaş ve üstü oyuncular
