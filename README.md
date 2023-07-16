@@ -13,10 +13,10 @@ Bootcamp-U61: **Gabbies** </br>
 </ul>
 
 ## Ürün İsmi </br>
-### THE FILIUS
+### THE FILIUS ORIGIN
 ## Ürün Açıklaması
 
- **The Filius :** Nükleer bir patlamadan sonra kaybolan oğlunu bulmaya çalışan bir babanın hikayesini takip eden heyecan verici bir bulmaca oyunu olan "The filius", sizi zorlu bir dünyaya götürüyor.
+ **The Filius Origin:** Nükleer bir patlamadan sonra kaybolan oğlunu bulmaya çalışan bir babanın hikayesini takip eden heyecan verici bir bulmaca oyunu olan "The filius origin", sizi zorlu bir dünyaya götürüyor.
 
 Korku dolu bir ortamda zombilerle dolu sokaklarda ve harabe binalarda hayatta kalmanız gereken bu oyunda, stratejik düşünerek bulmacaları çözmeli ve oğlunuzun izini sürebilmek için gizli geçitleri keşfetmelisiniz.
 
