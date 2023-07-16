@@ -174,13 +174,13 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 <ul>
 <li>Alınan Kararlar:
 <ul>
-<li> 2. Sprintte belirlediği şekilde Oyunun hikayesini nükleer savaş sonrasında baba ve oğul temasına uygun şekilde geliştirmek ve tamamlamak.</li>
+<li> 2. Sprintte belirlediği şekilde Oyunun hikayesini nükleer savaş sonrasında baba ve oğul temasına uygun şekilde geliştirmeye devam etmek ve tamamlamak.</li>
 </ul>
 </li>
 
 <li>İlerlemeler:
 <ul>
-<li> Oyundaki genel hatalar tamamlanıp UI kısmına başlandı ve teslime hazır hale getildi.</li>
+<li> Oyundaki genel hatalar tamamlanıp. UI kısmına başlandı ve teslime hazır hale getildi.</li>
 </ul>
 </li>
 </li>
