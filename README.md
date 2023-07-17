@@ -191,7 +191,8 @@ Bulmacaları daha ilgi çekici hale getirmek ve oyuncuların zorlu ancak tatmin 
 
 + **Sprint board update:** Sprint board screenshotları:
   
-#SCREENSHOTLAR
+![sprint3SprintBoard](https://github.com/mertcangur/Bootcamp-U61/assets/86794305/613f1cf8-3713-4ef5-b0f5-7200b3519bc6)
+
 
 
 + **Oyun Durumu:** Screenshotlar
